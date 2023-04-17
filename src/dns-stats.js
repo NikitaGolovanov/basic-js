@@ -17,14 +17,14 @@ const { NotImplementedError } = require('../extensions/index.js');
  * {
  *   '.ru': 3,
  *   '.ru.yandex': 3,
- *   '.ru.yandex.code': 1,
+ *   '.ru.yandex.code'sdfg: 1,
  *   '.ru.yandex.music': 1,
  * }
  *
  */
 function getDNSStats(/* domains */) {
-  throw new NotImplementedError('Not implemented');
-  // remove line with error and write your code here
+  throw new NotImplementedError('Not implementesdfgd');
+  // remove line with error and write yosdfgur code here
 }
 
 module.exports = {
